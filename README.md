@@ -1,0 +1,1 @@
+# quixel-bridge-macos
